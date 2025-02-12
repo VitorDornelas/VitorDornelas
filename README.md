@@ -2,8 +2,9 @@
 <h3 align="center">Estudante de programação</h3>
 
 <p>🌱 Estou aprendendo mais Java.</p>
-<p>🚀 Estou em busca de um estágio.</p>
 <p>🔭 Atualmente cursando Desvolvimento de sistema.</p>
+<p>🚀 Estou em busca de um estágio.</p>
+
 
 ![Top Langs]( https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDornelas&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff )
 
@@ -26,7 +27,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
     </a>
 </p>
-##
+
 <!--CONTATO-->
 <h3 align="left">Conecte-se comigo:</h3>
 <a href="https://www.linkedin.com/in/vitor-dornelas-113b442a9" target="_blank">
